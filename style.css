@@ -1,0 +1,23 @@
+nav > ul > li {
+    text-decoration: none;
+   margin: 2%;
+   display: inline;
+   
+}
+a{
+    text-decoration: none;
+    color: rgb(12, 172, 236);
+    font-size: 20px;
+   
+}
+a:hover{
+     color: brown;
+}
+header{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+nav li:hover{
+    background-color: black;
+   
+}
